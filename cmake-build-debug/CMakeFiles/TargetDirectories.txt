@@ -1,0 +1,3 @@
+C:/Users/adamb/CLionProjects/c-domecky/cmake-build-debug/CMakeFiles/c_domecky.dir
+C:/Users/adamb/CLionProjects/c-domecky/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/adamb/CLionProjects/c-domecky/cmake-build-debug/CMakeFiles/rebuild_cache.dir
